@@ -1,0 +1,52 @@
+#profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+header {
+    text-align: center;
+}
+.experience__com, .education__com {
+    color: green;
+}
+
+.certificate {
+    margin-left: 9px;
+    height: 350px;
+}
+
+.licey {
+    width: 24%;
+}
+
+.video__comp {
+    
+    width: 640px;
+}
+
+.video__comdiv {
+    text-align: center;  
+}
+
+.insttan1, .insttan2 {
+    height: 280px;
+}
+
+table {
+    width: 50%;
+    margin-bottom: 30px;
+    
+}
+
+table, thead, tbody, tr, th, td {
+    border: 1px green solid;
+}
+
+
+.skill__ortakere {
+    text-align: center;
+}
+
+
+
